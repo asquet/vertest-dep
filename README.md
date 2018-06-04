@@ -1,0 +1,2 @@
+# vertest-dep
+test version
