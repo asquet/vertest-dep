@@ -1,0 +1,11 @@
+{
+  "name": "vertest-dep",
+  "version": "1.0.0",
+  "description": "git dep versioning test - dep part",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
